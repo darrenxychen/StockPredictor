@@ -7,7 +7,12 @@ function App() {
   return (
     <>
       <div>
-        <h1>Stock Predictor</h1>
+        <header>
+          <h1>Stock Predictor W</h1>
+        </header>
+        <main>
+          <p>stuff</p>
+        </main>
       </div>
     </>
   );

@@ -24,6 +24,10 @@ body {
   min-height: 100vh;
 }
 
+main {
+  font-weight: bold;
+}
+
 h1 {
   font-family: 'Raleway', sans-serif;
   font-size: 3.2em;

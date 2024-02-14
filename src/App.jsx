@@ -13,6 +13,11 @@ function App() {
         <main>
           <p>stuff</p>
         </main>
+        <footer>
+          <p>
+            Made by Darren Chen and Jimmy Moore
+          </p>
+        </footer>
       </div>
     </>
   );

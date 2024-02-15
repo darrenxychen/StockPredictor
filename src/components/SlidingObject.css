@@ -1,17 +1,23 @@
 .container {
-  height: 250px;
+  height: 100px;
   margin: auto;
   position: relative;
   width: 90%;
   display: grid;
   place-items: center;
   overflow: hidden;
+  background-color: #19144B;
+  border-radius: 30px;
 }
 
 .sliders {
   display: flex;
   width: calc(250px * 18);
   animation: scroll 40s linear infinite;
+}
+
+.sliders:hover {
+  animation-play-state: paused;
 }
 
 @keyframes scroll {
@@ -25,7 +31,7 @@
 }
 
 .slide {
-  height: 200px;
+  height: 50px;
   width: 250px;
   display: flex;
   align-items: center;

@@ -10,7 +10,6 @@ function App() {
           <h1>Stock Predictor W</h1>
         </header>
         <main>
-          <p>stuff</p>
           <SlidingObject />
         </main>
         <footer>

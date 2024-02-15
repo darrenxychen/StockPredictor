@@ -7,9 +7,16 @@ const SlidingObject = () => {
   const [show, setShow] = useState(false);
 
   return (
-    <div>
-      <button onClick={() => setShow(!show)}>Toggle</button>
-      {show && <div>Slide in</div>}
+    <div className='container'>
+      <div className='sliders'>
+        <div className='slide'>
+          <p>stuff</p>
+        </div>
+        <div className='slide'>
+          <p>stuff</p>
+        </div>
+      </div>
+
     </div>
   );
 }

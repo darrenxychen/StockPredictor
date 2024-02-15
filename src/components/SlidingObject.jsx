@@ -15,6 +15,21 @@ const SlidingObject = () => {
         <div className='slide'>
           <p>stuff</p>
         </div>
+        <div className='slide'>
+          <p>stuff</p>
+        </div>
+        <div className='slide'>
+          <p>stuff</p>
+        </div>
+        <div className='slide'>
+          <p>stuff</p>
+        </div>
+        <div className='slide'>
+          <p>stuff</p>
+        </div>
+        <div className='slide'>
+          <p>stuff</p>
+        </div>
       </div>
 
     </div>

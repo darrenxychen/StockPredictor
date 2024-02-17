@@ -11,6 +11,9 @@ function App() {
         </header>
         <main>
           <SlidingObject />
+          <div className="container-styling">
+
+          </div>
         </main>
         <footer>
           <p>
